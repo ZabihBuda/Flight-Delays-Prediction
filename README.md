@@ -1,4 +1,4 @@
-# Mid-Term-Project-LHL
+# Mid-Term-Project-LHL-Flight Arrivals Prediction
 This repository cointains all the information you need to work on the Mid-Term project.
 
 ## Hello and Welcome!!!
